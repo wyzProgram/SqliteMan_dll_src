@@ -1,0 +1,8 @@
+D:\vs prog\SqliteMan\bin\SqliteMan.dll
+D:\vs prog\SqliteMan\bin\SqliteMan.pdb
+D:\vs prog\SqliteMan\bin\System.Data.SQLite.dll
+D:\vs prog\SqliteMan\bin\System.Data.SQLite.pdb
+D:\vs prog\SqliteMan\bin\System.Data.SQLite.xml
+D:\vs prog\SqliteMan\obj\Debug\SqliteMan.csprojResolveAssemblyReference.cache
+D:\vs prog\SqliteMan\obj\Debug\SqliteMan.dll
+D:\vs prog\SqliteMan\obj\Debug\SqliteMan.pdb
